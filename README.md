@@ -1,4 +1,3 @@
-"# Signal-Editor" 
 Hi, this is a signal editor which makes your signal report to be more "representable" to boss or client.
 Before using this editor, please make sure that your Excel file is in following format:
 1. the 1st column of the 1st row of your Excel file should be "Frequency". 
